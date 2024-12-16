@@ -26,11 +26,11 @@ Graphics Framework: JAVAFX
 
 
 ![Screenshot 2024-12-16 133213](https://github.com/user-attachments/assets/fdb1ba99-97b8-4f05-8eae-8d59a65a3e0e)
-<img width="500" src="" />
+<img width="500" src="https://github.com/user-attachments/assets/fdb1ba99-97b8-4f05-8eae-8d59a65a3e0e" />
 
 
 ![Screenshot 2024-12-16 133233](https://github.com/user-attachments/assets/80c064ce-9996-47f0-9ec3-fc2dbb428334)
-<img width="500" src="https://github.com/user-attachments/assets/fdb1ba99-97b8-4f05-8eae-8d59a65a3e0e" />
+<img width="500" src="https://github.com/user-attachments/assets/80c064ce-9996-47f0-9ec3-fc2dbb428334" />
 
 
 
