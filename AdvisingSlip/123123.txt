@@ -1,0 +1,9 @@
+ID: 123123		Name: Tonny		CGPA: 2.3
+
+No	CourseCode	CourseName	Credit	Section	Faculty	Fee
+1	CSE115	C Programming	3	3	TBA	19500
+2	CSE225	Data Structure	3	4	TBA	19500
+3	CSE311	DBMS	3	4	TBA	19500
+4	CSE332	Computer Architecture	3	3	TBA	19500
+_________________________________________________________________
+				 Total Payable amount = 78000
