@@ -9,7 +9,7 @@ Graphics Framework: JAVAFX
 ![Screenshot 2024-12-16 132854](https://github.com/user-attachments/assets/55fa3eda-8346-450b-ad11-b793f856a81f)
 
 
-<img width="578" src="https://github.com/user-attachments/assets/55fa3eda-8346-450b-ad11-b793f856a81f" />
+<img width="400" src="https://github.com/user-attachments/assets/55fa3eda-8346-450b-ad11-b793f856a81f" />
 
 
 ![Screenshot 2024-12-16 132938](https://github.com/user-attachments/assets/701853d7-cd45-4813-a4ab-127bbf2613e5)
