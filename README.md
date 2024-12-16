@@ -1,6 +1,9 @@
 # Advising-Portal-latest-
 Mini Advising Portal for Course Registration of Private Universities, including admin portal to manage IT work, such as managing Teachers and Courses.
 
+Language Used: JAVA
+Graphics Framework: JAVAFX
+
 
 ![Screenshot 2024-12-16 132854](https://github.com/user-attachments/assets/55fa3eda-8346-450b-ad11-b793f856a81f)
 
@@ -26,6 +29,9 @@ Mini Advising Portal for Course Registration of Private Universities, including 
 
 
 ![Screenshot 2024-12-16 133233](https://github.com/user-attachments/assets/80c064ce-9996-47f0-9ec3-fc2dbb428334)
+
+
+
 
 <img width="578" alt="Screenshot 2024-12-16 133621" src="https://github.com/user-attachments/assets/12f44239-ca24-4a13-9d15-9ada9217b5dc" />
 
